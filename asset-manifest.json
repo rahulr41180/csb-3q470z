@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rahulr41180.github.io/csb-3q470z/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://rahulr41180.github.io/csb-3q470z/static/js/main.b70e43f1.chunk.js",
+    "main.js.map": "https://rahulr41180.github.io/csb-3q470z/static/js/main.b70e43f1.chunk.js.map",
+    "runtime-main.js": "https://rahulr41180.github.io/csb-3q470z/static/js/runtime-main.3e25641d.js",
+    "runtime-main.js.map": "https://rahulr41180.github.io/csb-3q470z/static/js/runtime-main.3e25641d.js.map",
+    "static/js/2.b0504009.chunk.js": "https://rahulr41180.github.io/csb-3q470z/static/js/2.b0504009.chunk.js",
+    "static/js/2.b0504009.chunk.js.map": "https://rahulr41180.github.io/csb-3q470z/static/js/2.b0504009.chunk.js.map",
+    "index.html": "https://rahulr41180.github.io/csb-3q470z/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://rahulr41180.github.io/csb-3q470z/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b0504009.chunk.js.LICENSE.txt": "https://rahulr41180.github.io/csb-3q470z/static/js/2.b0504009.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e25641d.js",
+    "static/js/2.b0504009.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b70e43f1.chunk.js"
+  ]
+}
